@@ -7,6 +7,7 @@ I'm a recent **BS Computer Science Graduate from DLSU** who likes to build new t
 - 👀 Interested in **Software Engineering, Web Development, UI/UX Design, and AI**
 - 🙇‍♂️ Sometimes struggling but always trying!
 
-### 📩 If you want to reach out: ##
+### 📩 If you want to reach out:
 
 - Email: **marcojalenyu@gmail.com**
+- Linkedin: **[Marco Yu](https://www.linkedin.com/in/marcojalenyu)**
